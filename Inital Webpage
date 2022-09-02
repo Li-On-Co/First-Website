@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Lyon's Personal Site ♱</title>
+</head>
+
+<body>
+
+  <table cellspacing="40">
+    <tr>
+      <td><img src="J.jpg" alt=""></td>
+      <td><h1>Lyon Coagan</h1><p><em>Precursor of the <strong>New Holy Testament of Salvation</strong></em></p>
+        <p>
+        Out of misery's clunches, Lyon initiated his journey towards a full insight into the world's absolute meaning, which included meeting its maker.
+          <br>
+        While researching through the vast catalog of mankind's spiritual traditions and knowledge without an evident answer in sight, Lyon concluded these traditions as flawed fabricated throughout history's unfortunate events.
+        </p></td>
+    </tr>
+  </table>
+    <hr size="3" noshade>
+    <h3>Education</h3>
+    <ul>
+      <li>High school
+        <ul>
+        <li>Ohel Shem gifted students class 2008-2011</li>
+        <li>Ort Ebin Computer Science, Physics and Mathematics class 2011-2012</li>
+          </ul>
+      </li>
+      <li>Software and Web Development studies 2022</li>
+      <li>Ordination by the Evangelical Baptist Church 2023</li>
+      <li>Ordination by the <a href="https://thegnosticsociety.org/"> Ecclesia Gnostica Church</a> 2025</li>
+    </ul>
+    <hr>
+    <h3>Hobbies</h3>
+    <ol type="1">
+      <li>Playing and listening to music</li>
+      <li>Reading</li>
+      <li>Software development</li>
+      <li>Attaining salvation for oneself and all manking</li>
+    </ol>
+    <hr>
+    <h3>Work Experience</h3>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>Work</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+      <tr>
+        <td>2015-2016</td>
+        <td>Bank Teller</td>
+      </tr>
+      <tr>
+        <td>2016-2018</td>
+        <td>Legal Referant at Clal Insutance</td>
+      </tr>
+    </table>
+    <hr>
+    <h1>Skills</h1>
+    <table border ="1">
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>
+                Preaching
+              </td>
+              <td>&star; &star; &star; &star; &star;</td>
+            </tr>
+            <tr>
+              <td>Guitar playing</td>
+              <td>&star; &star; &star; &star; &star;</td>
+            </tr>
+            <tr>
+              <td>Piano Playing</td>
+              <td>&star; &star; &star;</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <td>C# Programming</td>
+              <td>&star; &star; &star; &star;</td>
+            </tr>
+            <tr>
+              <td>Html Programming</td>
+              <td>&star; &star; &star; &star;</td>
+            </tr>
+            <tr>
+              <td>CSS Programming</td>
+              <td>&star; &star; &star;</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <hr>
+    <a href="mailto:lyonco2710@gmail.com?subject=feedback">Contact me</a>
+    <a href="Affiliate links.html">Learn more</a>
+</body>
+
+</html>
